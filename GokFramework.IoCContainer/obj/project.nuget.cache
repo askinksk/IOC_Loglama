@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxR5wIkNWsOAJ2YwEe+w+4H3rlAURT+nwXEIAU09JeEQ75ziS90tAUwr5YOgD7gzlbIUft3IUYNndGvkkaR0KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askin.kesik\\Desktop\\DDD Pattern\\IOC Loglama\\GokFramework.IoCContainer\\GokFramework.IoCContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

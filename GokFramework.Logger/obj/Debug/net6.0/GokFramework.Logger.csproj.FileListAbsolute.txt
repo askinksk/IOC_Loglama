@@ -1,0 +1,15 @@
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.csproj.AssemblyReference.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.AssemblyInfoInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.AssemblyInfo.cs
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.csproj.CoreCompileInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\bin\Debug\net6.0\GokFramework.Logger.deps.json
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\bin\Debug\net6.0\GokFramework.Logger.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\bin\Debug\net6.0\GokFramework.Logger.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\bin\Debug\net6.0\GokFramework.IoCContainer.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\bin\Debug\net6.0\GokFramework.IoCContainer.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.csproj.CopyComplete
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\refint\GokFramework.Logger.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\GokFramework.Logger.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.Logger\obj\Debug\net6.0\ref\GokFramework.Logger.dll

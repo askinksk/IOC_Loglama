@@ -1,0 +1,12 @@
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.csproj.AssemblyReference.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.AssemblyInfoInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.AssemblyInfo.cs
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.csproj.CoreCompileInputs.cache
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\bin\Debug\net6.0\GokFramework.IoCContainer.deps.json
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\bin\Debug\net6.0\GokFramework.IoCContainer.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\bin\Debug\net6.0\GokFramework.IoCContainer.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\refint\GokFramework.IoCContainer.dll
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\GokFramework.IoCContainer.pdb
+C:\Users\askin.kesik\Desktop\DDD Pattern\IOC Loglama\GokFramework.IoCContainer\obj\Debug\net6.0\ref\GokFramework.IoCContainer.dll

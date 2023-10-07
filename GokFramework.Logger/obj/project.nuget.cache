@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKxWOgNFPZVa0s6g1H1KB73tcZ19A4YFscDA3VQIn6H0zT0wKgQNtRrZq6ZylIZhfarboxem3AsGX9ag6PRASg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askin.kesik\\Desktop\\DDD Pattern\\IOC Loglama\\GokFramework.Logger\\GokFramework.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
